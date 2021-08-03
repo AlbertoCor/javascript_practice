@@ -1,0 +1,6 @@
+
+#Dynamodb Local files
+.dynamodb/
+
+# config vs code
+.vscode
